@@ -12,4 +12,5 @@ jobs:
     - name: Gitbook Action
       uses: ZanderZhao/gitbook-action@master
       with:
+        source_branch: 'main'
         token: ${{ secrets.PERSONAL_TOKEN }}
