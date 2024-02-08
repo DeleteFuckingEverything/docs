@@ -12,10 +12,13 @@ The protagonist, a girl known only as _Anon_, uses her technical prowess to hide
 
 > It's not that I have something to hide. I have nothing I want you to see.
 
-In the United States, an individual's right to privacy is extrapolated from the Fourth Amendment, which protects individuals in their persons, homes, papers, and effects from "unreasonable searches and seizures" by the government.[¹](./#references) While the exact language is not universal, over 150 national constitutions mention the right to privacy.[²](./#references)
+In the United States, an individual's right to privacy is extrapolated from the Fourth Amendment, which protects individuals in their persons, homes, papers, and effects from "unreasonable searches and seizures" by the government.[¹](./#references) While the exact language is not universal, over 150 national constitutions mention the right to privacy.[²](./#references) In the _Universal Declaration of Human Rights_, the United Nations specifically mentions privacy as one of the inalienable rights all human beings are entitled to.[³](./#references)
 
 ### References
 
 \[1] [https://www.ala.org/ala/washoff/contactwo/oitp/emailtutorials/privacya/05.htm](https://www.ala.org/ala/washoff/contactwo/oitp/emailtutorials/privacya/05.htm)
 
 \[2] [https://www.constituteproject.org/constitutions](https://www.constituteproject.org/constitutions)
+
+\[3] [https://www.un.org/en/about-us/universal-declaration-of-human-rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+
