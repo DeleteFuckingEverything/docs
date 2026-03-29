@@ -4,6 +4,7 @@
 * [Virtual World.](virtual-world./README.md)
   * [Social Media.](virtual-world./social-media..md)
   * [Mail.](virtual-world./mail..md)
+  * [People Search.](virtual-world./people-search..md)
 * [Physical World.](physical-world./README.md)
   * [Predictability.](physical-world./predictability..md)
   * [Gear.](physical-world./gear..md)

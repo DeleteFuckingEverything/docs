@@ -14,6 +14,10 @@ The protagonist, a girl known only as _Anon_, uses her technical prowess to hide
 
 In the United States, an individual's right to privacy is extrapolated from the Fourth Amendment, which protects individuals in their persons, homes, papers, and effects from "unreasonable searches and seizures" by the government.[¹](./#references) While the exact language is not universal, over 150 national constitutions mention the right to privacy.[²](./#references) In the _Universal Declaration of Human Rights_, the United Nations specifically mentions privacy as one of the inalienable rights all human beings are entitled to.[³](./#references)
 
+That is the purpose of this project. The modern internet is a machine designed to collect, correlate, and retain every possible piece of information about you for as long as possible. Companies do it for money, governments do it for power, and random shit-ass data broker sites do it because there is an entire industry built around turning your life into a public lookup table.
+
+Delete Fucking Everything is a practical guide to fighting back. The objective is not to become a schizophrenic hermit hiding in the woods, but to make yourself far more difficult to profile, track, categorize, and locate. Every stale account deleted, every broker listing suppressed, every unnecessary service deprived of your real information is one less piece of you floating around for someone else to exploit.
+
 ### References
 
 \[1] [https://www.ala.org/ala/washoff/contactwo/oitp/emailtutorials/privacya/05.htm](https://www.ala.org/ala/washoff/contactwo/oitp/emailtutorials/privacya/05.htm)
@@ -21,4 +25,3 @@ In the United States, an individual's right to privacy is extrapolated from the 
 \[2] [https://www.constituteproject.org/constitutions](https://www.constituteproject.org/constitutions)
 
 \[3] [https://www.un.org/en/about-us/universal-declaration-of-human-rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
-
